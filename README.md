@@ -8,7 +8,7 @@ I’m also interested in AI, and I’ll probably be working on more AI-related p
 
 Find the demo of my recent projects on my youtube channel
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Youtube+Channel!&font=Fira+Code&pause=1000&color=000000&width=600&height=50)](https://www.youtube.com/@dianePachaka)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+Youtube+Channel!&font=Fira+Code&pause=1000&color=E9762B&width=600&height=50)](https://www.youtube.com/@dianePachaka)
 
 ## 🛠 Skills
 
