@@ -53,7 +53,5 @@ Find the demo of my recent projects on my youtube channel
 ###  Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mahdieh-ghorbanian/)  
 - [Email](mailto:mahdie.ghorbanian@gmail.com)  
----
 
-## 📈 GitHub Stats
-![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=DianeCrafts&show_icons=true&theme=radical)
+
